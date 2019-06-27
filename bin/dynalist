@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# setup: https://github.com/timediv/QuickDynalistMac
+
+read CONTENT
+NOTE=
+
+curl --header "Content-Type: application/json" \
+  --request POST \
+  --data "{\"token\":\"${DYNALIST_TOKEN}\",\"content\":\"${CONTENT}\",\"note\":\"${NOTE}\"}" \
+  https://dynalist.io/api/v1/inbox/add
+
+echo ""
