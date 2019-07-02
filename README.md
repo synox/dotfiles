@@ -20,7 +20,8 @@
     appcleaner
     iterm2
     skype
-    dynalist                   
+    dynalist  
+    daisydisk
     
     # dev
     0xed        hex-fiend
