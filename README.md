@@ -56,6 +56,7 @@
     wget
     youtube-dl
     mas
+    diceware
 
     # dev
     bfg
