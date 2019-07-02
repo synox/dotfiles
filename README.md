@@ -22,6 +22,7 @@
     skype
     dynalist  
     daisydisk
+
     
     # dev
     0xed        hex-fiend
@@ -54,6 +55,7 @@
     trash
     wget
     youtube-dl
+    mas
 
     # dev
     bfg
@@ -90,8 +92,22 @@
     
     
     
+## Mac App Store
     
+    $ brew install mas
+
+    $ mas list
     
+    1153157709 Speedtest (1.6)
+    1351639930 Gifski (1.8.0)
+    764936294 Purple Tree (3.3.3)
+    545164971 PDF Toolkit+ (2.3)
+    497799835 Xcode (10.2.1)
+    
+    408981434 iMovie (10.1.12)
+    409201541 Pages (8.1)
+    409183694 Keynote (9.1)
+    409203825 Numbers (6.1)
     
     
     
