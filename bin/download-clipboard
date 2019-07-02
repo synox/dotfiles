@@ -1,1 +1,1 @@
-pbpaste | aria2c -i -
+pbpaste | aria2c -i - --dir=~/Downloads/
