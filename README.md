@@ -22,6 +22,7 @@
     skype
     dynalist  
     daisydisk
+    arq-cloud-backup
 
     
     # dev
