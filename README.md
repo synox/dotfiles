@@ -111,3 +111,8 @@
 
 https://9to5mac.com/2018/08/14/how-to-use-light-mode-messages-mail-dark-mode-mac/
 
+
+# Manualy Config
+
+* Go to System Preferences > Keyboard > Shortcuts, disable almost all of them! E.g. CTRL-Right and CMD-Shift-A get in the way of IntelliJ. 
+
