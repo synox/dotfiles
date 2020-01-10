@@ -10,15 +10,17 @@
     the-unarchiver
     vlc
     appcleaner
-    iterm2
     skype
     dynalist  
     daisydisk
     arq-cloud-backup
+    maccy
+    spotify
 
     
     # dev
     0xed        hex-fiend
+    iterm2
     google-cloud-sdk           sqlitestudio
     android-file-transfer      android-platform-tools    android-sdk     android-studio         
     sublime-text
@@ -50,6 +52,7 @@
     youtube-dl
     mas
     diceware
+    unrar
 
     # dev
     bfg
@@ -82,6 +85,7 @@
     
     # security
     nikto
+    exploitdb
 
     
     
@@ -92,13 +96,10 @@
 
     $ mas list
     
-    1153157709 Speedtest (1.6)
-    1351639930 Gifski (1.8.0)
-    764936294 Purple Tree (3.3.3)
     545164971 PDF Toolkit+ (2.3)
-    497799835 Xcode (10.2.1)
+    909566003 iHex (2.3)
+    411643860 DaisyDisk (4.8)
     
-    408981434 iMovie (10.1.12)
     409201541 Pages (8.1)
     409183694 Keynote (9.1)
     409203825 Numbers (6.1)
