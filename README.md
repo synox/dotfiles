@@ -1,21 +1,15 @@
 # Installation
 
 ##    $ brew cask list
+
+    brew cask install google-chrome   whatsapp vlc dynalist    arq-cloud-backup     maccy    spotify    appcleaner    the-unarchiver
     
     # basic
     tripmode
     bettertouchtool
-    google-chrome
-    whatsapp
-    the-unarchiver
-    vlc
-    appcleaner
     skype
-    dynalist  
     daisydisk
-    arq-cloud-backup
-    maccy
-    spotify
+   
 
     
     # dev
